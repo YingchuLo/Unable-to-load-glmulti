@@ -25,8 +25,6 @@ library(rJava)
 library(glmulti)
 
 Chinese Version中文版本:
-問題：找不到package glmulti，即使已經成功安裝
-
 在library(glmulti)前，你必須：
 1.	安裝Java 軟體在你的電腦上
 2.	在r中執行Library(rJava) 
