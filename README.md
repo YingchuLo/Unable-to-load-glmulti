@@ -24,6 +24,7 @@ library(glmulti)
 2.	(For Win)
 In cmd, type:
 R CMD javareconf
+
 In R, type:
 install.packages("rJava", type = "source")
 Sys.setenv(JAVA_HOME=' user/programfile/java')    
